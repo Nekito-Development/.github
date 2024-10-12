@@ -21,5 +21,5 @@ We welcome contributions from the community! If you're excited about game revers
 
 ### Connect with Us
 
-Stay updated on the latest developments, news, and discussions by joining our community on [Discord](https://discord.gg/nekito) and joining our [community forum](https://localhost/iforgortoputitondigitaloceanskull).
+Stay updated on the latest developments, news, and discussions by joining our community on [Discord](https://discord.gg/nekito) and joining our [forum](https://nekito.cc).
 
