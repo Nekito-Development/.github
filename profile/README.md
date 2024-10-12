@@ -23,4 +23,3 @@ We welcome contributions from the community! If you're excited about game revers
 
 Stay updated on the latest developments, news, and discussions by joining our community on [Discord](https://discord.gg/nekito) and joining our [community forum](https://localhost/iforgortoputitondigitaloceanskull).
 
-## Happy Coding! 🎮🔍
